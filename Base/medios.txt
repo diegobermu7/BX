@@ -1,0 +1,125 @@
+RevistaSemana OR
+	larepublica_co OR
+	Portafolioco OR
+	RevistaDinero OR 
+	NoticiasCaracol OR 
+	NoticiasRCN OR
+	Citytv OR
+	InstitucionalTV OR
+	Canal1Colombia OR 
+	SenalColombia OR 
+	CABLENOTICIAS OR
+	CanalCapital OR
+	CanalTreceCo OR
+	NoticiasUno OR
+	NTN24 OR
+	lafm OR
+	BluRadioCo OR 
+	dinersrevista OR
+	colombiareports OR
+	mundoinstante OR
+	pulzo OR
+	PublimetroCol OR
+	RedPrensaVerde OR 
+	semana.com OR
+	larepublica.co OR
+	portafolio.co OR
+	dinero.com OR
+	noticias.caracoltv.com OR
+	noticias.canalrcn.com OR
+	citytv.com.co OR
+	canalinstitucional.tv OR
+	noticias.canal1.com.co OR
+	senalcolombia.tv OR
+	cablenoticias.tv OR
+	canalcapital.gov.co OR
+	canaltrece.com.co OR
+	noticiasuno.com OR
+	ntn24.com OR
+	lafm.com.co OR
+	bluradio.com OR
+	revistadiners.com.co OR
+	colombiareports.com OR
+	elmundoalinstante.com OR
+	pulzo.com OR
+	publimetro.co OR
+	redprensaverde.org OR
+elheraldoco OR
+LaLibertadCo OR
+CanalTelecaribe OR
+QhuboQuilla OR
+adnbarranquilla OR elheraldo.co OR
+diariolalibertad.com OR
+telecaribe.co OR
+qhubo.com OR
+diarioadn.co OR
+ELTIEMPO OR
+elespectador OR
+ElNuevoSiglo OR
+malpensante OR
+RevistaLNE OR
+citypaperbogota OR
+BogotaPost OR 
+QhuboBogota OR 
+adncolombia OR
+Gatopardocom OR eltiempo.com OR
+elespectador.com OR
+elnuevosiglo.com.co OR
+elmalpensante.com OR
+lanotaeconomica.com.co OR
+thecitypaperbogota.com OR
+thebogotapost.com OR
+qhubobogota.com OR
+diarioadn.co OR
+gatopardo.com OR
+Diarioccidente OR
+elpaiscali OR
+TelepacificoTV OR
+Noti90Minutos OR
+Redsonoraradio OR
+QhuboCali OR
+adncali OR occidente.co OR
+elpais.com.co OR
+telepacifico.com OR
+90minutos.co OR
+redsonoraradio.net OR
+qhubocali.com OR
+diarioadn.co OR
+laopinioncucuta OR
+QhuboCucuta OR
+TvcucutaC OR
+areacucuta OR
+noticucuta OR
+TUKANAL OR
+CucutaEsNoticia OR
+LaVozDelNorteAM OR
+CaracolCucuta OR laopinion.com.co OR
+qhubo.com OR
+tvcucuta.com OR
+areacucuta.com OR
+noticucuta3.blogspot.com OR
+tukanal.tv OR
+cucutaesnoticia.com OR
+elcolombiano OR
+Teleantioquia OR
+Telemedellin OR
+minuto30com OR
+QhuboMedallo OR
+ADNMedellin OR
+hora13noticias OR 
+Centropolis_med OR
+elpalpitar OR
+ActualidadPol OR
+DespiertaAnt OR
+vivirpoblado OR elcolombiano.com OR
+teleantioquia.co OR
+telemedellin.tv OR
+minuto30.com OR
+qhubo.com OR
+diarioadn.co OR
+h13n.com OR
+centropolismedellin.com OR
+elpalpitar.com OR
+actualidad.com.co OR
+despiertaantioquia.com OR
+vivirenelpoblado.com
